@@ -53,7 +53,6 @@ npx http-server
 
 # Veya doğrudan tarayıcıda index.html'i açın
 ```
-
 ## 🔧 Konfigürasyon
 
 ### config.js Dosyası
@@ -66,7 +65,6 @@ const config = {
     LANGUAGE: 'tr'
 };
 ```
-
 ### Güvenlik
 - `config.js` dosyası `.gitignore` ile korunur
 - API key'leriniz GitHub'a yüklenmez
@@ -95,12 +93,3 @@ tır. Detaylar için `LICENSE` dosyasına bakın.
 
 ## 📞 İletişim
 - baharraksuu@gmail.com
-
-- API key'lerinizi asla GitHub'a yüklemeyin
-- `config.js` dosyasını `.gitignore` ile koruyun
-- Production ortamında environment variables kullanın
-- API rate limitlerine dikkat edin
-
----
-
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
